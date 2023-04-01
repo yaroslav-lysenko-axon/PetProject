@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetProject", "PetProject\PetProject.csproj", "{874AF6B1-A0A6-4F50-B82B-B0B1E4E0F3EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetProject.Host", "PetProject.Host\PetProject.Host.csproj", "{874AF6B1-A0A6-4F50-B82B-B0B1E4E0F3EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
