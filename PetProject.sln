@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetProject.Host", "PetProject.Host\PetProject.Host.csproj", "{874AF6B1-A0A6-4F50-B82B-B0B1E4E0F3EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetProject.Application", "PetProject.Application\PetProject.Application.csproj", "{B77E023F-9E93-4BAA-8B04-8759068A31A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetProject.Domain", "PetProject.Domain\PetProject.Domain.csproj", "{E6513593-CD89-4A87-99A2-D4B54E7D97E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{874AF6B1-A0A6-4F50-B82B-B0B1E4E0F3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{874AF6B1-A0A6-4F50-B82B-B0B1E4E0F3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{874AF6B1-A0A6-4F50-B82B-B0B1E4E0F3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B77E023F-9E93-4BAA-8B04-8759068A31A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77E023F-9E93-4BAA-8B04-8759068A31A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77E023F-9E93-4BAA-8B04-8759068A31A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77E023F-9E93-4BAA-8B04-8759068A31A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6513593-CD89-4A87-99A2-D4B54E7D97E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6513593-CD89-4A87-99A2-D4B54E7D97E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6513593-CD89-4A87-99A2-D4B54E7D97E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6513593-CD89-4A87-99A2-D4B54E7D97E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
